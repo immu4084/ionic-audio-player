@@ -49,6 +49,6 @@ Thanks to the following posts and sources, I was able to come up with this solut
 
 ## Author
 
-Created by [Michael Xieyang Liu](https://lxieyang.github.io)
+Created by [Mohamed Imran Moynudeen] (https://github.com/immu4084)
 
-Last updated: Aug 20, 2019
+Last updated: Jan 19, 2020
